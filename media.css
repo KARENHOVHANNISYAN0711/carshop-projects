@@ -1,0 +1,558 @@
+@media only screen and (max-width:1290px){
+    .feedback-text{
+        width:300px;
+    }
+    .feedback-text-div{
+        width:300px;
+    }
+    .h5-feedback-text{
+        font-size:12px;
+    }
+    .h5-feedback-text-two{
+        font-size:12px;
+    }
+    .feedback-img{
+        width:170px
+    }
+    .feedback-img-two{
+        width:220px
+    }
+    .feedback-img-three{
+        width:170px
+    }
+    .blog-car-img{
+        width:300px;
+    }
+    .blog-text{
+        width:300px;
+    }
+    .h4-car-text{
+        font-size:15px;
+    }
+    .blog-img-div{
+        width:1140px;
+    }
+    .blog-text-div{
+        width:1140px;
+    }
+    .coustomerr-text-div{
+        width:1100px;
+    }
+    .services-text-div{
+        width:1020px;
+    }
+    .blog-text{
+        display:none;
+    }
+    .blog-img-div{
+        width:1140px;
+        flex-wrap:wrap;
+    }
+    .blog-text-div{
+        width:1140px;
+    }
+    .blog-on-text-div{
+        width:80%;
+        height:75px;
+        display:block;
+    }
+    .h4-car-text{
+        font-size:12px;
+        margin-bottom:20px;
+    }
+    .porsche-cayenne{
+        width:40%;
+        height:302px;
+    }
+    .rav4{
+        width:40%;
+        height:302px;
+    }
+    .kia-niro{
+        width:40%;
+        height:302px;
+        margin:0 auto;
+        margin-top:30px;
+    }
+    .footer-conteiner{
+        width:1200px;
+        height:250px;
+    }
+}
+
+@media only screen and (max-width:1260px){
+    .blog-img-div{
+        width:1100px;
+    }
+    .blog-text-div{
+        width:1100px;
+    }
+}
+
+@media only screen and (max-width:1215px){
+    .header-list>li>a{
+        font-size:13px;
+    }
+}
+
+@media only screen and (max-width:1205px){
+    .car-logo-div{
+        width:900px;
+    }
+    .brand-car-img{
+        width:121px;
+    }
+    .blog-img-div{
+        width:990px;
+    }
+    .blog-text-div{
+        width:990px;
+    }
+}
+
+@media only screen and (max-width:1195px){
+    .coustomerr-text-div{
+        width:890px;
+        height:307px;
+    }
+    .feedback-text{
+        width:250px;
+    }
+    .feedback-text-div{
+        width:250px;
+    }
+    .h5-feedback-text{
+        font-size:10px;
+    }
+    .h5-feedback-text-two{
+        font-size:10px;
+    }
+    .feedback-text-div{
+        height:250px;
+    }
+}
+
+@media only screen and (max-width:1104px){
+    .blog-img-div{
+        width:930px;
+    }
+    .blog-car-img{
+        width:350px;
+    }
+    .blog-text{
+        width:250px;
+    }
+    .blog-text-div{
+        width:930px;
+    }
+}
+
+@media only screen and (max-width:1085px){
+    .blog-img-div{
+       width:800px;
+    }
+}
+
+@media only screen and (max-width:1065px){
+    .footer-conteiner{
+        width:900px;
+        height:250px;
+    }
+}
+
+@media only screen and (max-width:1025px){
+    .services-text-div{
+        width:900px;
+    }
+    .h4-serives-text{
+        font-size:13px;
+        text-align:center;
+    }
+    .h6-services-text{
+        font-size:13px;
+        text-align:center;
+    }
+    .dealership-car{
+        margin-left:145px;
+    }
+}
+
+@media only screen and (max-width:995px){
+    .header-list{
+        gap:10px;
+    }
+    .header-list>li>a{
+        font-size:10px;
+    }
+     .car-logo-div{
+        width:800px;
+    }
+    .brand-car-img{
+        width:81px;
+        height:119px;
+    }
+}
+
+
+@media only screen and (max-width:990px){
+    .feedback-img{
+        width:120px
+    }
+    .feedback-img-two{
+        width:170px
+    }
+    .feedback-img-three{
+        width:160px
+    }
+}
+
+@media only screen and (max-width:975px){
+    .coustomerr-text-div{
+        width:700px;
+        height:560px;
+        flex-wrap:wrap;
+        margin-bottom:100px;
+    }
+    .h4-our-feedback-text{
+        margin-bottom:170px;
+    }
+}
+
+@media only screen and (max-width:950px){
+    .services-text-div{
+        width:800px;
+    }
+    .h4-serives-text{
+        font-size:10px;
+        text-align:center;
+    }
+    .h6-services-text{
+        font-size:10px;
+        text-align:center;
+    }
+    .dealership-car{
+        margin-left:130px;
+    }
+}
+
+@media only screen and (max-width:940px){
+    .footer-conteiner{
+        width:800px;
+        height:250px;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .footer-conteiner{
+        width:800px;
+        height:450px;
+        flex-wrap:wrap;
+    }
+}
+
+@media only screen and (max-width:890px){
+    .car-logo-div{
+        width:600px;
+    }
+    .brand-car-img{
+        width:71px;
+        height:119px;
+    }
+    .search-div{
+        width:546px;
+    }
+}
+
+@media only screen and (max-width:905px){
+    .blog-img-div{
+       width:700px;
+    }
+}
+
+@media only screen and (max-width:830px){
+    .services-text-div{
+        flex-direction:column;
+    }
+    .services-text{
+        margin:0 auto;
+    }
+    .dealership-car{
+        margin-left:150px;
+    }
+}
+
+@media only screen and (max-width:800px){
+    .coustomerr-text-div{
+        width:600px;
+        height:560px;
+        flex-wrap:wrap;
+        margin-bottom:100px;
+    }
+    .h4-our-feedback-text{
+        margin-bottom:170px;
+    }
+    .blog-img-div{
+        flex-direction:column;
+        gap:30px;
+     }
+     .h4-blog-text{
+        margin-left:70px;
+     }
+     .porsche-cayenne{
+        width:400px;
+        height:302px;
+    }
+    .rav4{
+        width:400px;
+        height:302px;
+    }
+    .kia-niro{
+        width:400px;
+        height:302px;
+    }
+}
+
+@media only screen and (max-width:798px){
+    .blog-img-div{
+        width:100%;
+    }
+}
+
+@media only screen and (max-width:795px){
+    .blog-img-div{
+        margin-left:60px;
+        width:40%;
+    }
+    .h4-blog-text{
+        margin-right:90px;
+    }
+}
+
+@media only screen and (max-width:775px){
+    .d-block{
+        height:500px;
+        margin-top:40px;
+    }
+    .h5-dream-car-text{
+        font-size:40px;
+    }
+    .h5-dream-car-text-two{
+        font-size:40px;
+    }
+}
+
+@media only screen and (max-width:690px){
+    .car-logo-div{
+        width:500px;
+    }
+    .brand-car-img{
+        width:71px;
+        height:119px;
+    }
+    .search-div{
+        width:446px;
+    }
+    .coustomerr-text-div{
+        width:550px;
+        height:760px;
+        flex-wrap:wrap;
+        margin-bottom:150px;
+    }
+}
+
+@media only screen and (max-width:645px){
+    .coustomerr-text-div{
+        width:400px;
+        height:760px;
+        flex-wrap:wrap;
+        margin-bottom:150px;
+    }
+    .footer-conteiner{
+        width:500px;
+        height:450px;
+        flex-wrap:wrap;
+    }
+}
+
+@media only screen and (max-width:577px){
+    .blog-img-div{
+        margin-left:5px;
+        width:30%;
+    }
+    .h4-blog-text{
+        margin-right:90px;
+    }
+    .brand-car-img{
+        width:61px;
+    }
+    .car-logo-div{
+        width:100%; 
+    }
+}
+
+@media only screen and (max-width:570px){
+    .footer-conteiner{
+        width:400px;
+        height:450px;
+        flex-wrap:wrap;
+    }
+    .d-block{
+        height:400px;
+        margin-top:40px;
+    }
+    .car-logo-div{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:550px){
+    .search-div{
+        width:100%;
+    }
+    .blog-img-div{
+        width:70% !important;
+    }
+    .logo{
+        width:150px;
+        margin-left:50px;
+    }
+    .footer-contact{
+        width:100%;
+    }
+}
+
+@media only screen and (max-width:525px){
+    .blog-img-div{
+        display:flex !important;
+        align-items:center;
+    }
+    .porsche-cayenne{
+        width:300px;
+        margin-right:90px;
+    }
+    .rav4{
+        width:300px;
+        margin-right:90px;
+    }
+    .kia-niro{
+        width:300px;
+        margin-right:90px;
+    }
+}
+
+
+@media only screen and (max-width:510px){
+    .coustomerr-text-div{
+        width:300px;
+        height:760px;
+        flex-wrap:wrap;
+        margin-bottom:150px;
+    }
+    .h5-feedback-text{
+        font-size:9px;
+    }
+    .h5-feedback-text-two{
+        font-size:9px;
+    }
+}
+
+@media only screen and (max-width:465px){
+    .logo{
+        width:144px;
+    }
+    .header-list{
+        display:none;
+    }
+    .menu-bar{
+        display:block;
+    }
+    .search-div{
+        width:366px;
+        margin-right:90px;
+    }
+    .h5-new-used-text{
+        font-size:10px;
+    }
+    .car-logo-div{
+        width:70%;
+        flex-wrap:wrap;
+    }
+    .h5-many-text{
+        font-size:12px;
+    }
+    .porsche-cayenne{
+        width:300px;
+        border-radius:30px;
+    }
+    .rav4{
+        width:300px;
+        border-radius:30px;
+    }
+    .kia-niro{
+        width:300px;
+        border-radius:30px;
+    }
+    .footer-contact{
+        width:100%;
+    }
+    .footer-conteiner{
+        width:400px;
+        flex-wrap:wrap;      
+    }
+    .footer-paragraf{
+        font-size:15px;
+    
+    }
+}
+
+@media only screen and (max-width:450px){
+    .search-div{
+        width:300px;
+    }
+    .search-icon{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:416px){
+    .logo{
+        width:180px;
+        padding-right:70px;
+    }
+    .search-div{
+        width:300px;
+    }
+    .search-icon{
+        display:none;
+    }
+    .porsche-cayenne{
+        width:270px;
+        margin-right:260px;
+    }
+    .rav4{
+        width:270px;
+        margin-right:260px;
+    }
+    .kia-niro{
+        width:270px;
+        margin-right:260px;
+    }
+    .h6-footer-text{
+        text-align:center;
+    }
+    .footer-icon{
+        padding-left:120px;
+    }
+    .contact{
+        margin-left:30px;
+    }
+    .twitter{
+        width:30%;
+    }
+    .faceebook{
+        width:30%;
+    }
+    .linkedin{
+        width:30%;
+    }
+}
